@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio_Tepm/static/css/main.4d521990.css",
+    "main.js": "/portfolio_Tepm/static/js/main.48c2e3b7.js",
+    "static/media/AmsajMotor.PNG": "/portfolio_Tepm/static/media/AmsajMotor.f0f24610f0f8efc7c096.PNG",
+    "static/media/remixicon.svg?t=1590207869815": "/portfolio_Tepm/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/hamzurry.PNG": "/portfolio_Tepm/static/media/hamzurry.8e07b021b5f39afacffb.PNG",
+    "static/media/sync.PNG": "/portfolio_Tepm/static/media/sync.07df28d52e014f8c537a.PNG",
+    "static/media/AmsajTour.PNG": "/portfolio_Tepm/static/media/AmsajTour.a739d3d332e311597c82.PNG",
+    "static/media/pharmacyStore.PNG": "/portfolio_Tepm/static/media/pharmacyStore.038507a83781b7a98e20.PNG",
+    "static/media/AmsajStore.PNG": "/portfolio_Tepm/static/media/AmsajStore.ee081d6ce4bf732d9631.PNG",
+    "static/media/bgG.PNG": "/portfolio_Tepm/static/media/bgG.f2775110fe6010eac862.PNG",
+    "static/media/remixicon.eot?t=1590207869815": "/portfolio_Tepm/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/portfolio_Tepm/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/AmsajKitchen.PNG": "/portfolio_Tepm/static/media/AmsajKitchen.e4e61cfff94559a5dbd6.PNG",
+    "static/media/gym.PNG": "/portfolio_Tepm/static/media/gym.285559b5c6cc37601b15.PNG",
+    "static/media/AmsajAcademy.PNG": "/portfolio_Tepm/static/media/AmsajAcademy.51769a2d4d865a77fdeb.PNG",
+    "static/media/Hr.png": "/portfolio_Tepm/static/media/Hr.923f03d1e4f26925289c.png",
+    "static/media/fd1.PNG": "/portfolio_Tepm/static/media/fd1.8b90b87100e0358c5027.PNG",
+    "static/media/remixicon.woff?t=1590207869815": "/portfolio_Tepm/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/class-connect.PNG": "/portfolio_Tepm/static/media/class-connect.358328585a11979d6d33.PNG",
+    "static/media/remixicon.woff2?t=1590207869815": "/portfolio_Tepm/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/TimeTable.PNG": "/portfolio_Tepm/static/media/TimeTable.b61208f84ad315879e15.PNG",
+    "static/media/baldoShoe.PNG": "/portfolio_Tepm/static/media/baldoShoe.2f0fefd5ded14c125289.PNG",
+    "static/media/frontend.png": "/portfolio_Tepm/static/media/frontend.f3fa8ba8d3c413b7f068.png",
+    "static/media/cal.PNG": "/portfolio_Tepm/static/media/cal.fae6d3e08f67362100a6.PNG",
+    "static/media/clock.PNG": "/portfolio_Tepm/static/media/clock.f91fbfeef0090577a802.PNG",
+    "static/media/board.PNG": "/portfolio_Tepm/static/media/board.0233f7e02206e726b27e.PNG",
+    "index.html": "/portfolio_Tepm/index.html",
+    "main.4d521990.css.map": "/portfolio_Tepm/static/css/main.4d521990.css.map",
+    "main.48c2e3b7.js.map": "/portfolio_Tepm/static/js/main.48c2e3b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d521990.css",
+    "static/js/main.48c2e3b7.js"
+  ]
+}
